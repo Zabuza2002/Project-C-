@@ -1,0 +1,6 @@
+C:\Users\user08\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15.csproj.AssemblyReference.cache
+C:\Users\user08\source\repos\WpfApp15\WpfApp15\obj\Debug\MainWindow.g.cs
+C:\Users\user08\source\repos\WpfApp15\WpfApp15\obj\Debug\App.g.cs
+C:\Users\user08\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_Content.g.cs
+C:\Users\user08\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.cache
+C:\Users\user08\source\repos\WpfApp15\WpfApp15\obj\Debug\WpfApp15_MarkupCompile.lref

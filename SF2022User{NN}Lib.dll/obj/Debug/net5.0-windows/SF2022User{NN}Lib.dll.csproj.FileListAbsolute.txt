@@ -1,0 +1,12 @@
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\bin\Debug\net5.0-windows\SF2022User{NN}Lib.dll.deps.json
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\bin\Debug\net5.0-windows\SF2022User{NN}Lib.dll.dll
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\bin\Debug\net5.0-windows\ref\SF2022User{NN}Lib.dll.dll
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\bin\Debug\net5.0-windows\SF2022User{NN}Lib.dll.pdb
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.csprojAssemblyReference.cache
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.AssemblyInfoInputs.cache
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.AssemblyInfo.cs
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.csproj.CoreCompileInputs.cache
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.dll
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\ref\SF2022User{NN}Lib.dll.dll
+C:\Users\takar\source\repos\SF2022User{NN}Lib.dll\obj\Debug\net5.0-windows\SF2022User{NN}Lib.dll.pdb

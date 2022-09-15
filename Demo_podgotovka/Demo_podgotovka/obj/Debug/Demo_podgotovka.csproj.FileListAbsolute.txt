@@ -1,0 +1,17 @@
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\Demo_podgotovka.exe.config
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\Demo_podgotovka.exe
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\Demo_podgotovka.pdb
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.csprojAssemblyReference.cache
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.Add.resources
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.Form1.resources
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.HomeContent.resources
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.Properties.Resources.resources
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.csproj.GenerateResource.cache
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.csproj.CoreCompileInputs.cache
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.exe
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.pdb
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\EntityFramework.dll
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\EntityFramework.xml
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\takar\source\repos\Demo_podgotovka\Demo_podgotovka\obj\Debug\Demo_podgotovka.csproj.CopyComplete

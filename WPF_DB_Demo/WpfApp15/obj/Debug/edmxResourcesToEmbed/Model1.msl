@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище kursovayaModelContainer" CdmEntityContainer="kursovayaEntities">
+    <EntitySetMapping Name="T1">
+      <EntityTypeMapping TypeName="kursovayaModel.T1">
+        <MappingFragment StoreEntitySet="T1">
+          <ScalarProperty Name="id_" ColumnName="id_" />
+          <ScalarProperty Name="id_name" ColumnName="id_name" />
+          <ScalarProperty Name="dat" ColumnName="dat" />
+          <ScalarProperty Name="cot" ColumnName="cot" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="T2">
+      <EntityTypeMapping TypeName="kursovayaModel.T2">
+        <MappingFragment StoreEntitySet="T2">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

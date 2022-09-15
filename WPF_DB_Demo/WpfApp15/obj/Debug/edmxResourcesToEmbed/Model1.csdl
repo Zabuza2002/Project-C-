@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="kursovayaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="T1">
+    <Key>
+      <PropertyRef Name="id_" />
+    </Key>
+    <Property Name="id_" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_name" Type="Int32" Nullable="false" />
+    <Property Name="dat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="cot" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="T2" Relationship="Self.FK_T1_T2" FromRole="T1" ToRole="T2" />
+  </EntityType>
+  <EntityType Name="T2">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="T1" Relationship="Self.FK_T1_T2" FromRole="T2" ToRole="T1" />
+  </EntityType>
+  <Association Name="FK_T1_T2">
+    <End Role="T2" Type="Self.T2" Multiplicity="1" />
+    <End Role="T1" Type="Self.T1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="T2">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="T1">
+        <PropertyRef Name="id_name" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="kursovayaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="T1" EntityType="Self.T1" />
+    <EntitySet Name="T2" EntityType="Self.T2" />
+    <AssociationSet Name="FK_T1_T2" Association="Self.FK_T1_T2">
+      <End Role="T2" EntitySet="T2" />
+      <End Role="T1" EntitySet="T1" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
